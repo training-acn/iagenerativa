@@ -1,2 +1,3 @@
 # iagenerativa
+day 2
 
