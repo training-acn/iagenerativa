@@ -1,5 +1,16 @@
 
 
+
+
+#iagenerativa
+
+<<<<<<< HEAD
+=======
+# iagenerativa
+day 2
+>>>>>>> 82bdfef7a7904d7791479ff330eb988b8ef81e13
+
+
 # iagenerativa.1
 
 <<<<<<< HEAD
