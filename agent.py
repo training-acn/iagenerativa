@@ -1,6 +1,6 @@
 # agent.py
 import boto3
-from autogen.agent_tools import Agent  # Updated import path
+from autogen import Agent  # Updated import path
 import logging
 
 # Configure logging
